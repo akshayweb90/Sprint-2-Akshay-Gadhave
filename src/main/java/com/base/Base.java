@@ -21,7 +21,7 @@ public class Base {
 	public static WebDriver driver;
 	public static Properties prop;
 	
-	//pagefactory
+	//pagefactoryyyy
 			@FindBy(id = "wzrk-cancel")
 			WebElement cancelPopup;
 			
@@ -73,5 +73,9 @@ public class Base {
 		driver.quit();
 	}
 
+
+}
+class akshay{
+}
 
 }
